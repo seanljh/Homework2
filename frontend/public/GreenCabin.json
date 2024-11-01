@@ -1,0 +1,7 @@
+{
+  "name": "Green Cabin",
+  "description": "A rustic green cabin nestled in the heart of the Rocky Mountains.",
+  "address": "89 Mountain Pass Road, Aspen, Colorado",
+  "size": "1,100 sq ft",
+  "image": "http://localhost:5173/Images/GreenCabin.jpg"
+}

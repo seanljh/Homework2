@@ -1,0 +1,7 @@
+{
+  "name": "Modern Cabin",
+  "description": "A sleek, modern cabin with luxurious amenities and panoramic views.",
+  "address": "90 Ridgeview Lane, Vail, Colorado",
+  "size": "2,000 sq ft",
+  "image": "http://localhost:5173/Images/ModernCabin.jpg"
+}

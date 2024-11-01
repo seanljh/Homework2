@@ -1,0 +1,7 @@
+{
+  "name": "Blue Cabin",
+  "description": "This is a cozy blue cabin located in Estes Park, Colorado.",
+  "address": "122 Pine Ridge Lane, Estes Park, Colorado",
+  "size": "1,200 sq ft",
+  "image": "http://localhost:5173/Images/BlueCabin.jpg"
+}

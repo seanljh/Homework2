@@ -1,0 +1,7 @@
+{
+  "name": "Forest Cabin",
+  "description": "An old dark brown cabin located deep in Mount Hood, Oregon.",
+  "address": "57 Aspen Hollow Lane, Mount Hood, Oregon",
+  "size": "1,200 sq ft",
+  "image": "http://localhost:5173/Images/ForestCabin.jpg"
+}

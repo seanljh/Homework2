@@ -1,0 +1,7 @@
+{
+  "name": "Brown Cabin",
+  "description": "A cozy brown cabin surrounded by lush vegetation located in Estes Park, Colorado.",
+  "address": "10 Mountainview Road, Estes Park, Colorado",
+  "size": "1,700 sq ft",
+  "image": "http://localhost:5173/Images/BrownCabin.jpg"
+}
